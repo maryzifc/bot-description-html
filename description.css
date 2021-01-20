@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+* {
+cursor: url(https://cur.cursors-4u.net/food/foo-3/foo263.ani), url(https://cur.cursors-4u.net/food/foo-3/foo263.png), auto !important;
+}
+
+
+.entity-header__image {
+    border-radius: 50% !important;
+    border: 4px solid #242026;
+}
+.entity-header__name {
+    color: #FCDFEF;
+    font-weight: 900;
+}
+.entity-header__short-description {
+	color: #FCDFEF;	
+    word-break: break-word;	
+	font-style: italic;
+font-size: 16px;
+}
+span.usernameCB {
+  font-size: 21px;
+font-weight: 600;
+color: #f1f1f1;
+<!--#f9f8ff-->
+font-family: 'Inter', sans-serif;
+}
+span.timestampCB {
+  font-size: 15px;
+font-weight: 450;
+font-family: 'Inter', sans-serif;
+}
+span.messageContentCB {
+  font-size: 24px;
+  vertical-align: text-top;
+  color: #FFFFFF;
+}
+.entity-content__description {
+ font-size: 17px;
+color: #ffffff;
+}
+img {
+  float: left;
+  border-radius: 9999px
+}
+.containerCB {
+  border-style: solid;
+border-color: #222428;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+.2con {
+border-style: solid;
+border-color: #ffffff;
+margin-bottom: 3px;
+}
