@@ -1,0 +1,355 @@
+<!--CONTENTS-->
+<div class="containerCB" role="document">
+  <div class="2con">
+    <!--AVATAR-->
+    <img
+      src="https://cdn.discordapp.com/avatars/619305329414373376/79f15c8733cc3b247c984657f18b5bd2.png?size=128"
+      width="80"
+      height="80"
+      class="avatarCB"
+      style="padding: 10px;"
+    />
+    <!--HEADER-->
+    <h2 class="headerCB">
+      <!--HEADERTEXT-->
+      <span class="headerTextCB">
+        <!--USERNAME-->
+        <span
+          tabindex="0"
+          role="button"
+          aria-expanded="false"
+          aria-controls="popout_1050"
+          class="usernameCB"
+          >gecko</span
+        ></span
+      >
+      <!--TIMESTAMP-->
+      <span style="color: #878787; font-size: 18px;" class="timestampCB">
+        <span aria-label="Today at 8:10 AM"> 4/3/2021 </span></span
+      >
+    </h2>
+    <!--MESSAGECONTENT-->
+    <div class="messageContentCB"><b>New Commands Added!</b> 
+     <br/>/coinflip, /roll, and /ramenpls (credits to Grayson)</div>
+  </div>
+</div>
+
+________
+
+<details>
+  <summary><b>This is a dropdown (Click Me)</b></summary>
+  <br />
+  Surprise!
+</details>
+
+<br />
+<!--HELP TABLE-->
+
+<h5>⚙️ Need help with Chibibap?</h5>
+<table>
+  <th>Getting Started</th>
+  <th>Contact</th>
+  <th>Support</th>
+  <th>Website</th>
+  <tr>
+    <td>/help・/website・/invite</td>
+    <td>Discord・gecko#2790</td>
+    <td><a href="http://bit.ly/chibibap-server">Server Invite</a></td>
+    <td><a href="http://chibibap.carrd.co/">Chibibap's Website</a></td>
+  </tr>
+</table>
+
+<iframe src="https://chibibap.carrd.co/" style="border:4px #dad8f5 solid;" name="chibi-frame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="700px" allowfullscreen></iframe>
+
+<br />
+<!--CAFE TABLE-->
+
+<details>
+  <summary>☕️ <b>Café Menu</b></summary>
+   <br>
+  <table>
+    <th>Command</th>
+    <th>Credits</th>
+    <th>..</th>
+    <th>..</th>
+    <tr>
+      <td>/coffeepls</td>
+      <td></td>
+      <td>/hotchocolatepls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/milkpls</td>
+      <td></td>
+      <td>/pumpkinlattepls</td>
+      <td>Cinnamon_Buns</td>
+    </tr>
+    <tr>
+      <td>/teapls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/bagelpls</td>
+      <td></td>
+      <td>/biscuitpls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/frenchtoastpls</td>
+      <td></td>   
+      <td>/pancakespls</td>
+      <td>Elle</td>
+    </tr>
+    <tr>
+      <td>/pizzapls</td>
+      <td></td>
+      <td>/saladpls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/sandwichpls</td>
+      <td></td>   
+      <td>/wafflespls</td>
+      <td>Elle</td>
+    </tr>
+    <tr>
+      <td>/ramenpls</td>
+      <td>Grayson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/bubblegumpls</td>
+      <td></td>
+      <td>/cakepls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/candycornpls</td>
+      <td></td>
+      <td>/churro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/cookiepls</td>
+      <td></td>
+      <td>/donutpls</td>
+    </tr>
+    <tr>
+      <td>/hersheyspls</td>
+      <td></td>
+      <td>/icecreampls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/marshmallowpls</td>
+      <td>Luggerlug</td>
+      <td>/skittlespls</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>/snickerspls</td>
+      <td></td>
+      <td>/taffypls</td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+<br />
+<!--UTILITY TABLE-->
+
+<details>
+  <summary>🍰 <b>Utility</b></summary>
+  <br />
+  <table>
+    <th>Command</th>
+    <th>Description</th>
+    <th>..</th>
+    <th>..</th>
+    <tr>
+      <td>/help</td>
+      <td>Commands list, links, contact, etc</td>
+      <td>/website</td>
+      <td>Sends link to the website</td>
+    </tr>
+    <tr>
+      <td>/invite</td>
+      <td>Sends bot invite</td>
+      <td>/ping</td>
+      <td>Sends the bot's ping</td>
+    </tr>
+  </table>
+</details>
+
+<br />
+<!--GAMES TABLE-->
+
+<details>
+  <summary>🍒 <b>Games</b></summary>
+  <br />
+  <table>
+    <th>Command</th>
+    <th>Description</th>
+    <th>..</th>
+    <th>..</th>
+    <tr>
+      <td>/coinflip</td>
+      <td>Flips a coin (heads or tails)</td>
+      <td>/roll</td>
+      <td>Rolls a coin (1-6)</td>
+    </tr>
+    <tr>
+      <td>/flirtpls</td>
+      <td>Flirts with user</td>
+    </tr>
+  </table>
+</details>
+
+<br />
+<!--LINKS TABLE-->
+
+<h5>🔗 Links</h5>
+<table>
+  <th>Links</th>
+  <th>..</th>
+  <th>..</th>
+  <th>..</th>
+  <tr>
+    <td><a href="http://bit.ly/chibibap-server">Discord Server</a></td>
+    <td><a href="https://bit.ly/invite-chibibap">Bot Invite</a></td>
+    <td><a href="https://top.gg/bot/753714041150504990/vote">Upvote</a></td>
+    <td><a href="https://forms.gle/71n3518ABd92N44i7">Suggest</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://ko-fi.com/chibibap">Ko-Fi</a></td>
+    <td><a href="https://www.patreon.com/chibibap">Patreon</a></td>
+  </tr>
+</table>
+
+<br />
+<!--REVIEW RULES LIST-->
+
+<h5>📮 Review Rules</h5>
+<b>Top.gg's Guidelines:</b>
+<a href="https://support.top.gg/hc/en-us/articles/360058534673"
+  >support.top.gg/articles/360058534673</a
+>
+<br />
+<ul>
+  <li>
+    Please do not, under any circumstances, make a review about an issue with
+    the bot <b>before</b> asking for help
+  </li>
+  <li>
+    Do not include any spam, offensive, or unrelated content in your reviews
+  </li>
+  <li>Do not threaten, insult, attack, or harass users or groups</li>
+  <li>Do not abuse the review system</li>
+</ul>
+
+<style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+  * {
+  cursor: url(https://cur.cursors-4u.net/food/foo-3/foo263.ani), url(https://cur.cursors-4u.net/food/foo-3/foo263.png), auto !important;
+  }
+
+  iframe {
+    width: 700px;
+    height: 400px;
+  }
+  a {
+    color: #dad8f5;
+  }
+
+  .entity-content__description {
+  	border-color: #dad8f5;
+  	border-width: 4px;
+  	border-radius: 13px;
+  }
+  summary {
+    size: 25px
+  }
+
+  .entity-header__name {
+    font-weight: 900;
+    color: #E8EBED;
+  }
+  .entity-header__short-description {
+    word-break-word;
+    font-style: italic;
+    font-size: 16px;
+    color: #E8EBED;
+  }
+  span.usernameCB {
+    font-size: 21px;
+    font-weight: 600;
+    color: #E8EBED;
+  <!--#f9f8ff-->
+    font-family: 'Inter', sans-serif;
+  }
+  span.timestampCB {
+    font-size: 15px;
+    font-weight: 450;
+    font-family: 'Inter', sans-serif;
+  }
+  span.messageContentCB {
+    font-size: 24px;
+    vertical-align: text-top;
+    color: #E8EBED;
+  }
+  .entity-content__description {
+    font-size: 17px;
+    color: #E8EBED;
+  }
+  img {
+    float: left;
+    border-radius: 9999px
+  }
+  .containerCB {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 40px;
+  }
+  .2con {
+    border-style: solid;
+    border-color: #ffffff;
+    margin-bottom: 3px;
+  }
+
+  .entity-wrapper {
+      width: 100%;
+      height: 100vh;
+      overflow: scroll;
+      overflow-x: hidden;
+      background: url(https://media.discordapp.net/attachments/780272139335892992/826068658932416544/background_darkened_28.png?width=606&height=325);
+      background-repeat: no-repeat;
+      background-size: cover;
+      scrollbar-width: none;
+  }
+
+  .entity-header__image {
+      border-radius: 50% !important;
+      border-color: #dad8f5;
+      border-style: solid;
+  }
+
+  .entity-content__description iframe, .longdescription iframe {
+      width: 100%;
+      min-height: 200px;
+      height: 650px;
+  } 
+</style>
